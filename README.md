@@ -8,4 +8,4 @@
 
 ### IDEAs 💡
 
-[ffmpeg-web-shell](https://github.com/father-lox/ffmpeg-web-shell) [weather](https://github.com/father-lox/weather)
+[ffmpeg-web-shell](https://github.com/father-lox/ffmpeg-web-shell) • [weather](https://github.com/father-lox/weather)
