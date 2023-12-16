@@ -1,4 +1,4 @@
-### Projects
+### Projects 🦾
 [log.news](https://github.com/father-lox/graduation-work-client)
 
 ### Laboratory 🧪
